@@ -19,8 +19,7 @@ Tools used to make this app:
 * IntelliJ
 * Firefox Developer Edition
 * Git
-* Youtube
-* Google
+* Youtube, Google, StackOverFlow ...
 
 
 Made as a school project at the AI-specialist training
