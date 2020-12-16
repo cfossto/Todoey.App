@@ -1,0 +1,21 @@
+* { box-sizing: border-box; }
+
+body { margin:0; padding:0; display: flex; justify-content: center;}
+
+.masterDiv { margin-top: 85px; }
+
+h1, h2 { cursor:pointer; }
+
+h1 {display: inline; } 
+h2 { display: inline;  margin-left: 10%}
+
+#inputs { margin-bottom: 30px; }
+
+.listDiv{ position: absolute; }
+
+
+.checked { text-decoration: line-through; background-color:rgb(200, 196, 229); text-align: center;}
+.lis { background-color: fuchsia; }
+
+
+#headline { font-size: 60px; }
