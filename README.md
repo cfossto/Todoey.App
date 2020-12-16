@@ -1,5 +1,5 @@
 # Todoey.App v.1.0
-(Updated version of Todoey. Now with DB and a more modern glow.)
+_(Updated version of Todoey. Now with DB and a more modern glow.)_
 
 Todoey.App is an app that you can create ToDo-notes.
 It is fully connected with a database and uses
@@ -14,12 +14,13 @@ though styling is mainly handled by raw CSS.
 
 Tools used to make this app:
 
-Visual Studio Code
-IntelliJ
-Firefox Developer Edition
-Git
-Youtube
-Google
+
+* Visual Studio Code
+* IntelliJ
+* Firefox Developer Edition
+* Git
+* Youtube
+* Google
 
 
 Made as a school project at the AI-specialist training
